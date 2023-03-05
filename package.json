@@ -1,0 +1,19 @@
+{
+  "name": "test-chatgpt",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chatgpt": "^5.0.6",
+    "dotenv": "^16.0.3",
+    "fetch-polyfill": "^0.8.2",
+    "node-fetch": "^2.6.9"
+  }
+}
